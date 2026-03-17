@@ -55,7 +55,8 @@ int main(void) {
 }
 ```
 ## Output
-![Output Image](exp1.png)
+<img width="1428" height="278" alt="image" src="https://github.com/user-attachments/assets/f37c4be1-cb3a-42dc-bffe-639fc322ef99" />
+
 ---
 
 ## Result
